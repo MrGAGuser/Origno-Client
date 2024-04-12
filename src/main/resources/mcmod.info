@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ghosterbuster",
+  "name": "Ghosterbuster9000",
+  "description": "Best miner!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["PiggyDev"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
