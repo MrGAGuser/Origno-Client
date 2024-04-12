@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.jelly.GhosterBuster.mixins",
+  "refmap": "mixins.mightyminer.refmap.json",
+  "mixins": [
+    "client.ChunkMixin",
+    "client.MixinGlassPane",
+    "client.MixinModList",
+    "network.MixinNetworkManager",
+    "client.PlayerControllerMixin"
+  ],
+  "client": [
+    "client.MixinChunkProviderClient",
+    "network.MixinNetHandlerPlayClient",
+    "accessors.RenderGlobalAccessor"
+  ]
+}
